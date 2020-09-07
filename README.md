@@ -11,3 +11,9 @@ Coronary Artery disease is typically defined as atherosclerotic plaques in the c
 Even with appropriate screening, CAD can be silent until a cardiac event such as a Myocardial Infarction or Heart Attack.
 
 The purpose of this project was to perform exploratory data analysis on the dataset as well as attempt to use a machine learning algorithm to see if diagnosed coronary artery disease could be predicted reliably from a machine learning algorithm.
+
+Data Source URL:
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+Source Cited:
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
