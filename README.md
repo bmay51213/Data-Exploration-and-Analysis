@@ -2,7 +2,7 @@
 
 ## Coronary Artery Disease Prediction
 
-### *Please note that some of the exploratory data analysis is dependent upon on Allen Downey's textbook and code from ThinkStats2.
+### Please note that some of the exploratory data analysis is dependent upon on Allen Downey's textbook and code from ThinkStats2.
 
 The dataset I chose for this capstone project in the course of Data Exploration and Analysis was examining a Heart Disease dataset from the University of California-Irvine Machine Learning repository.  The data is conglomerated from 4 different data sources from Cleveland, Hungary, Switzerland, and a VA Facility in Long Beach, California.
 
