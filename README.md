@@ -1,5 +1,6 @@
-# Data-Exploration-and-Analysis
-Coronary Artery Disease Prediction
+# Data Exploration and Analysis
+
+## Coronary Artery Disease Prediction
 
 The dataset I chose for this capstone project in the course of Data Exploration and Analysis was examining a Heart Disease dataset from the University of California-Irvine Machine Learning repository.  The data is conglomerated from 4 different data sources from Cleveland, Hungary, Switzerland, and a VA Facility in Long Beach, California.
 
