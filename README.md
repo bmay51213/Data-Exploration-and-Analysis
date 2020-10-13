@@ -12,6 +12,9 @@ Even with appropriate screening, CAD can be silent until a cardiac event such as
 
 The purpose of this project was to perform exploratory data analysis on the dataset as well as attempt to use a machine learning algorithm to see if diagnosed coronary artery disease could be predicted reliably from a machine learning algorithm.
 
+### Coding Language:
+Python
+
 ### Data Source URL:
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
